@@ -173,7 +173,7 @@ body {
 .main-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #22b3c1;
+  background-color: #ee2c09;
   border: 1px solid #22b3c1;
   padding: 12px 30px;
   display: inline-block;
@@ -323,7 +323,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #22b3c1 !important;
+  background-color: #881257 !important;
   height: 70px!important;
   position: fixed!important;
   top: 0!important;
@@ -337,7 +337,7 @@ Header Style
 }
 
 .header-area {
-  background-color: #22b3c1;
+  background-color: #22b4c180;
   position: absolute;
   height: 70px;
   top: 0;
@@ -1107,7 +1107,7 @@ Footer Style
 */
 
 footer {
-  background-color: #22b3c1;
+  background-color: #075961;
   text-align: center;
   padding: 25px 0px;
 }
@@ -1452,7 +1452,7 @@ About Page Style
 
 .more-about .main-button a:hover {
   background-color: #22b3c1;
-  border-color: #22b3c1;
+  border-color: #3a9da7;
   color: #fff;
   opacity: 0.85;
 }
@@ -1543,10 +1543,10 @@ body #user-button .u-icons a div {
   padding: 0.5rem;
   transition: 0s;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"] {
+body #user-button .u-icons a[href="https://twitter.com/GHS_Creations"] {
   position: relative;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"]:before {
+body #user-button .u-icons a[href="https://twitter.com/GHS_Creations"]:before {
   content: "Middle Click";
   position: absolute;
   top: -1.5rem;
@@ -1561,14 +1561,14 @@ body #user-button .u-icons a[href="https://twitter.com/Osorpenke"]:before {
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"].show:before {
+body #user-button .u-icons a[href="https://twitter.com/GHS_Creations"].show:before {
   opacity: 1;
   transition: 0.25s ease-out;
 }
-body #user-button .u-icons a[href="https://twitter.com/Osorpenke"] div {
+body #user-button .u-icons a[href="https://twitter.com/GHS_Creations"] div {
   color: #1da1f2;
 }
-body #user-button .u-icons a[href="https://codepen.io/z-"] div {
+body #user-button .u-icons a[href="https://codepen.girirajga"] div {
   background: black;
   color: white;
 }
